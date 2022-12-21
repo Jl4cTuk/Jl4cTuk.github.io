@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Абитчики</title>
     <link>/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Абитчики</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2022 22:24:00 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 22:47:00 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Абитчик Сашка</title>
+      <link>/posts/%D0%B0%D0%B1%D0%B8%D1%82%D1%87%D0%B8%D0%BA-%D1%81%D0%B0%D1%88%D0%BA%D0%B0/</link>
+      <pubDate>Wed, 21 Dec 2022 22:47:00 +0700</pubDate>
+      
+      <guid>/posts/%D0%B0%D0%B1%D0%B8%D1%82%D1%87%D0%B8%D0%BA-%D1%81%D0%B0%D1%88%D0%BA%D0%B0/</guid>
+      <description>Александр Кондратенко Добавил его в абитчики заранее!</description>
+      <content>&lt;h1 id=&#34;александр-кондратенко&#34;&gt;Александр Кондратенко&lt;/h1&gt;
+&lt;p&gt;Добавил его в абитчики заранее!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Мой Первый Абитчик</title>
       <link>/posts/%D0%BC%D0%BE%D0%B9-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%B0%D0%B1%D0%B8%D1%82%D1%87%D0%B8%D0%BA/</link>
