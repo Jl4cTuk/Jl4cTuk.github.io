@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <title>Первая пара on Terminal</title>
+    <link>/tags/%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%BF%D0%B0%D1%80%D0%B0/</link>
+    <description>Recent content in Первая пара on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2022 22:24:00 +0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 22:24:00 +0700</lastBuildDate><atom:link href="/tags/%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%BF%D0%B0%D1%80%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Мой Первый Абитчик</title>
       <link>/posts/%D0%BC%D0%BE%D0%B9-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%B0%D0%B1%D0%B8%D1%82%D1%87%D0%B8%D0%BA/</link>
