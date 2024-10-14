@@ -1,20 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Абидчики Ластика</title>
     <link>https://jl4ctuk.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Абидчики Ластика</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2024 14:55:16 +0700</lastBuildDate><atom:link href="https://jl4ctuk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jl4ctuk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
-      <link>https://jl4ctuk.github.io/posts/mypost/</link>
-      <pubDate>Mon, 14 Oct 2024 14:55:16 +0700</pubDate>
+      <title>Чашка</title>
+      <link>https://jl4ctuk.github.io/posts/%D1%87%D0%B0%D1%88%D0%BA%D0%B0/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jl4ctuk.github.io/posts/mypost/</guid>
-      <description></description>
-      <content></content>
+      <guid>https://jl4ctuk.github.io/posts/%D1%87%D0%B0%D1%88%D0%BA%D0%B0/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Сашка&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Мы его звали звали, а он всё равно не пошел гулять&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+13 октября&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Приехали к нему на спичку и запустили фейерверк ему в окно&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Сашка&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Мы его звали звали, а он всё равно не пошел гулять&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+13 октября&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Приехали к нему на спичку и запустили фейерверк ему в окно&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Контора пидарасов</title>
+      <link>https://jl4ctuk.github.io/posts/%D0%BA%D0%BE%D0%BD%D1%82%D0%BE%D1%80%D0%B0-%D0%BF%D0%B8%D0%B4%D0%B0%D1%80%D0%B0%D1%81%D0%BE%D0%B2/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jl4ctuk.github.io/posts/%D0%BA%D0%BE%D0%BD%D1%82%D0%BE%D1%80%D0%B0-%D0%BF%D0%B8%D0%B4%D0%B0%D1%80%D0%B0%D1%81%D0%BE%D0%B2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Plays dev&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Прошел у них собеседование и меня не взяли на стажировку&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+11 октября&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Сделал обои в беседе группы с подписью Plays dev говно&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Plays dev&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Прошел у них собеседование и меня не взяли на стажировку&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+11 октября&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Сделал обои в беседе группы с подписью Plays dev говно&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Конченая тварь</title>
+      <link>https://jl4ctuk.github.io/posts/%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D0%B9/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jl4ctuk.github.io/posts/%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D0%B9/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Артемий&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Не хотел возвращать 166 рублей за чипсы которые я купил ему в КБ, потому что он забыл свой кошелёк&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+28 сентября&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Игнорил весь день в телеге&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Артемий&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Не хотел возвращать 166 рублей за чипсы которые я купил ему в КБ, потому что он забыл свой кошелёк&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+28 сентября&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Игнорил весь день в телеге&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Абидчик Сашка</title>
+      <link>https://jl4ctuk.github.io/posts/%D0%B0%D0%B1%D0%B8%D0%B4%D1%87%D0%B8%D0%BA-%D1%81%D0%B0%D1%88%D0%BA%D0%B0/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jl4ctuk.github.io/posts/%D0%B0%D0%B1%D0%B8%D0%B4%D1%87%D0%B8%D0%BA-%D1%81%D0%B0%D1%88%D0%BA%D0%B0/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Сашка&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Просто так&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+Будет&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Сделаю что-нибудь&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Сашка&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Просто так&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+Будет&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Сделаю что-нибудь&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Мой Первый Абитчик</title>
+      <link>https://jl4ctuk.github.io/posts/%D0%BC%D0%BE%D0%B9-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%B0%D0%B1%D0%B8%D1%82%D1%87%D0%B8%D0%BA/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jl4ctuk.github.io/posts/%D0%BC%D0%BE%D0%B9-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%B0%D0%B1%D0%B8%D1%82%D1%87%D0%B8%D0%BA/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Димка&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Сегодня Дима не пришёл как договаривались и теперь он мой абитчик&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+Когда-то на втором курсе&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Посмотрел как на мусор&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;Кто обидчик:&lt;/strong&gt;&lt;br&gt;
+Димка&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;За что я обиделся:&lt;/strong&gt;&lt;br&gt;
+Сегодня Дима не пришёл как договаривались и теперь он мой абитчик&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Когда была обида:&lt;/strong&gt;&lt;br&gt;
+Когда-то на втором курсе&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Месть:&lt;/strong&gt;&lt;br&gt;
+Посмотрел как на мусор&lt;/p&gt;
+</content>
     </item>
     
   </channel>

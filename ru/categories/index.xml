@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Абидчики Ластика</title>
-    <link>https://jl4ctuk.github.io/categories/</link>
+    <link>https://jl4ctuk.github.io/ru/categories/</link>
     <description>Recent content in Categories on Абидчики Ластика</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://jl4ctuk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="https://jl4ctuk.github.io/ru/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
